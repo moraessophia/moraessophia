@@ -22,12 +22,6 @@ Durante minha formação técnica trabalhei com desenvolvimento de jogos utiliza
 - Desenvolvimento de Jogos
 - Lógica de Programação
 
-## 📂 Projetos
-
-Em breve estarei adicionando meus projetos aqui no GitHub.
-
-🔹 Calculadora de Juros Compostos em Python (em desenvolvimento)
-
 ## 🌐 Conecte-se comigo
 
 💼 LinkedIn  
